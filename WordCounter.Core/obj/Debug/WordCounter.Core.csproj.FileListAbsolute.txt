@@ -1,0 +1,5 @@
+C:\Users\Sophia\documents\visual studio 2015\Projects\ConsoleApplication1\WordCounter.Core\bin\Debug\WordCounter.Core.dll
+C:\Users\Sophia\documents\visual studio 2015\Projects\ConsoleApplication1\WordCounter.Core\bin\Debug\WordCounter.Core.pdb
+C:\Users\Sophia\documents\visual studio 2015\Projects\ConsoleApplication1\WordCounter.Core\obj\Debug\WordCounter.Core.dll
+C:\Users\Sophia\documents\visual studio 2015\Projects\ConsoleApplication1\WordCounter.Core\obj\Debug\WordCounter.Core.pdb
+C:\Users\Sophia\documents\visual studio 2015\Projects\ConsoleApplication1\WordCounter.Core\obj\Debug\WordCounter.Core.csprojResolveAssemblyReference.cache

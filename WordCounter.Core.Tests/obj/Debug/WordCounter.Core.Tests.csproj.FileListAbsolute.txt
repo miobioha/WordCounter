@@ -1,0 +1,9 @@
+C:\Users\Sophia\documents\visual studio 2015\Projects\ConsoleApplication1\WordCounter.Core.Tests\bin\Debug\WordCounter.Core.Tests.dll
+C:\Users\Sophia\documents\visual studio 2015\Projects\ConsoleApplication1\WordCounter.Core.Tests\bin\Debug\WordCounter.Core.Tests.pdb
+C:\Users\Sophia\documents\visual studio 2015\Projects\ConsoleApplication1\WordCounter.Core.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Sophia\documents\visual studio 2015\Projects\ConsoleApplication1\WordCounter.Core.Tests\bin\Debug\WordCounter.Core.dll
+C:\Users\Sophia\documents\visual studio 2015\Projects\ConsoleApplication1\WordCounter.Core.Tests\bin\Debug\WordCounter.Core.pdb
+C:\Users\Sophia\documents\visual studio 2015\Projects\ConsoleApplication1\WordCounter.Core.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Sophia\documents\visual studio 2015\Projects\ConsoleApplication1\WordCounter.Core.Tests\obj\Debug\WordCounter.Core.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Sophia\documents\visual studio 2015\Projects\ConsoleApplication1\WordCounter.Core.Tests\obj\Debug\WordCounter.Core.Tests.dll
+C:\Users\Sophia\documents\visual studio 2015\Projects\ConsoleApplication1\WordCounter.Core.Tests\obj\Debug\WordCounter.Core.Tests.pdb
