@@ -14,3 +14,6 @@ compare. An acceptance test that verifies the given specification is included in
 with other tests. The solution is using a small standard set of punctuations that can be easily extended.
 
 Standard Set of Punctuations = { '.', ';', ':', '(', ')', '{', '}', '\'', '\"', '\n', '!', '?', ',', '-', '[', ']', '“', '”' }
+
+The punctuation set can be customized from the application configuration file. The user can therefore use a subset or 
+supset of the standard set specified above.
