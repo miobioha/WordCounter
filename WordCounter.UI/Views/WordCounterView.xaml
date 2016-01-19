@@ -42,7 +42,9 @@
              ToolTipService.ToolTip="{Binding RelativeSource={RelativeSource Self}, Path=Text}" 
              ToolTipService.InitialShowDelay="500"
              ToolTipService.Placement="Bottom"
-             Text="{Binding Input, UpdateSourceTrigger=PropertyChanged}" Margin="5,0,5,0">
+             AcceptsReturn="True" 
+             AcceptsTab="True"
+             Text="{Binding Input, UpdateSourceTrigger=PropertyChanged}" Margin="5,0,5,0" Height="26">
     </TextBox>
     <GroupBox Grid.Row="2" Header="Output">
       <ListView AutomationProperties.AutomationId="WordCountListView" ItemsSource="{Binding WordCount}">
